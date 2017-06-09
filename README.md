@@ -1,4 +1,5 @@
 #Currently-playing View
+
 This repo demonstrates how one could add a custom view on top of UITabBar and toggle its visibility, similar to how music apps like Spotify and Apple Music have a "Currently Playing"
 
 ![](/readme.gif)

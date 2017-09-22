@@ -1,4 +1,4 @@
-#Currently-playing View
+# Currently-playing View
 
 This repo demonstrates how one could add a custom view on top of UITabBar and toggle its visibility, similar to how music apps like Spotify and Apple Music have a "Currently Playing"
 
@@ -10,5 +10,5 @@ When it's time to hide, the custom view has its alpha set to 0, size of the orig
 
 Other designs that were taken into consideration can be found [at this Stack Overflow post](http://stackoverflow.com/questions/42384470/view-on-top-of-uitabbar)
 
-##Gotchas
+## Gotchas
 Make sure the original TabBar (one in Main.storyboard and under UITabBarController) has its Translucent unchecked. 
